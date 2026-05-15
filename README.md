@@ -9,20 +9,20 @@ Hi there 👋, I'm Dheepaesh K S
 📫 Reach me at: ksdheepaesh@gmail.com
 
 Tech Stack
-💻 Programming Languages
+Programming Languages
 Python
 C
 SQL
 HTML, CSS, JavaScript
 
-⚙️ Frameworks & Tools
+Frameworks & Tools
 Django
 Git & GitHub
 MySQL
 VS Code
 TensorFlow / Keras
 
-🤖 AI & ML
+ AI & ML
 Deep Learning
 CNN
 RNN
