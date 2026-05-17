@@ -10,9 +10,9 @@ Hi there 👋, I'm Dheepaesh K S
 
 Tech Stack
 Programming Languages
-Python
-C
-SQL
+Python,
+C,
+SQL,
 HTML, CSS, JavaScript
 
 Frameworks & Tools
